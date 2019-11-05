@@ -11,3 +11,8 @@ body {
 #hr {
     height: 5px;
 }
+
+.pic {
+    height: 200px;
+    width: 300px;
+}
